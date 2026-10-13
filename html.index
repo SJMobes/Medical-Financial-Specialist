@@ -10,7 +10,7 @@
 <body>
   <main id="resume">
     <header>
-      <img src="avatar.png" alt="SJ Mobley" />
+      <img src="avatar.jpg" alt="SJ Mobley" />
       <h1>SJ Mobley</h1>
       <ul id="contact">
         <li>Cell: <a href="tel:3177717090">317-771-7090</a></li>
